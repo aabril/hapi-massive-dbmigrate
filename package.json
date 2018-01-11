@@ -3,5 +3,11 @@
   "version": "0.0.1",
   "description": "Hapi + MassiveJS + db-migrate postgres migrations ",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "db-migrate": "^0.10.2",
+    "db-migrate-pg": "^0.2.5",
+    "hapi": "^17.2.0",
+    "massive": "^4.6.2"
+  }
 }
