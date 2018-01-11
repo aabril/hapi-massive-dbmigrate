@@ -1,0 +1,7 @@
+{
+  "name": "hapi-massive",
+  "version": "0.0.1",
+  "description": "Hapi + MassiveJS + db-migrate postgres migrations ",
+  "main": "index.js",
+  "license": "MIT"
+}
